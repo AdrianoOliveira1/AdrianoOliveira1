@@ -12,5 +12,5 @@ Sou um Desenvolvedor Fullstack apaixonado por transformar dados em decisões fin
 - **Finanças:** Integração com MetaTrader 5 (MQL5/Python API).
 
 ### 📫 Como me encontrar:
-- linkedin.com/in/adriano-oliveira-27a52115b
+- http://linkedin.com/in/adriano-oliveira-27a52115b
 - adr.apoliveira@gmail.com
